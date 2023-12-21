@@ -1,0 +1,76 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #405B73;
+}
+
+.title{
+    font-size: 40px;
+    color: #C59742;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    background-color: #DFE5F2;
+    padding: 15px; /* Optional padding for better spacing */
+}
+
+.subhed{
+    font-size: 20px;
+    color: #2C4A73;
+    font-weight: bold;
+    text-align: center;
+}
+
+.itemhead{
+    font-size: 15px;
+    
+    font-weight: bold;
+    
+}
+.footer{
+    font-size: 20px;
+    color: #C59742;
+    font-weight: bold;
+    text-align: center;
+    background-color: #DFE5F2;
+    padding: 15px;
+}
+.padding{
+    padding: 10px;
+    border: 2px sold #405B73;
+}
+.backimg{
+    background-image: url("assets/skiing-wallpaper-1440x960.jpg")
+    ;
+    background-size: cover;
+    background-color: #2e62a672;
+    
+    
+  
+}
+.menue{
+    text-align: right;
+    font-size: 12px;
+    color: #dfb568;
+    text-decoration: initial;
+}
+/* Color Theme Swatches in Hex */
+.elegant-im-Tiefschnee-unterwegs-1-hex { color: #2E62A6; }
+.elegant-im-Tiefschnee-unterwegs-2-hex { color: #6DB4F2; }
+.elegant-im-Tiefschnee-unterwegs-3-hex { color: #A7D5F2; }
+.elegant-im-Tiefschnee-unterwegs-4-hex { color: #F28705; }
+.elegant-im-Tiefschnee-unterwegs-5-hex { color: #BF5B21; }
+
+/* Color Theme Swatches in RGBA */
+.elegant-im-Tiefschnee-unterwegs-1-rgba { color: rgba(46, 98, 165, 1); }
+.elegant-im-Tiefschnee-unterwegs-2-rgba { color: rgba(109, 180, 242, 1); }
+.elegant-im-Tiefschnee-unterwegs-3-rgba { color: rgba(167, 213, 242, 1); }
+.elegant-im-Tiefschnee-unterwegs-4-rgba { color: rgba(242, 135, 4, 1); }
+.elegant-im-Tiefschnee-unterwegs-5-rgba { color: rgba(191, 90, 32, 1); }
+
+/* Color Theme Swatches in HSLA */
+.elegant-im-Tiefschnee-unterwegs-1-hsla { color: hsla(213, 56, 41, 1); }
+.elegant-im-Tiefschnee-unterwegs-2-hsla { color: hsla(208, 83, 68, 1); }
+.elegant-im-Tiefschnee-unterwegs-3-hsla { color: hsla(202, 74, 80, 1); }
+.elegant-im-Tiefschnee-unterwegs-4-hsla { color: hsla(33, 96, 48, 1); }
+.elegant-im-Tiefschnee-unterwegs-5-hsla { color: hsla(22, 70, 43, 1); }
